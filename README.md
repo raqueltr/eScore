@@ -1,2 +1,2 @@
 # eScore
-Decentralized Protocol for Knowledge Verification
+Protocol for Decentralized Knowledge Verification
