@@ -160,12 +160,12 @@ __Simple Proof__
 [ProveBit] (https://github.com/thereal1024/ProveBit)  
 [Proof of Existence] (https://proofofexistence.com/)  
 [Stampd] (https://stampd.io)  
-[Stampery] (https://stampery.com/)
+[Stampery] (https://stampery.com/)  
 [Jared Pereira] (https://blog.otlw.co/)
 
 __Digital Assets__  
 [Factom] (http://factom.com/)  
-[CoinSpark](http://coinspark.org/)
+[CoinSpark] (http://coinspark.org/)
 
 __Resources__  
 [The Case Against Education - George Mason University](https://www.google.pt/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjsx4nvyr_QAhVL82MKHceuCqMQFggbMAA&url=http%3A%2F%2Feconfaculty.gmu.edu%2Fbcaplan%2Fihseduc.ppt&usg=AFQjCNH2kbxpiEigc9mBgd2vrAa3yP1ATA&sig2=mxvHNVVZPIhQMpxXuHZLrA)  
