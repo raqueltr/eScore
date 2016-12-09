@@ -161,6 +161,7 @@ __Simple Proof__
 [Proof of Existence] (https://proofofexistence.com/)  
 [Stampd] (https://stampd.io)  
 [Stampery] (https://stampery.com/)
+[Jared Pereira] (https://blog.otlw.co/)
 
 __Digital Assets__  
 [Factom] (http://factom.com/)  
