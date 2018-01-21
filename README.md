@@ -5,9 +5,9 @@ _Protocol for Decentralized Knowledge Verification_
 We propose a novel solution to the current practice of vaulted knowledge verification without introducing yet another middleware layer (academic currency). - A trustless data layer is used to prove that somebody acquired knowledge.
 
 ## Introduction - Example
-_Bill Bates of Macrosoft, a highly sophisticated company, wishes to start a new project for which he requires 2 smart people. As nobody is available in-house he announces that 2 positions are vacant. Eventually, 3 applications arrive and Bill B. passes them on to HR for a recommendation that should be primarily optimized towards talent and secondary towards cost._
+_Bill Bates of Macrosoft, a highly sophisticated company, wishes to start a new project for which he requires 2 smart people. As nobody is available in-house he announces that 2 positions are vacant. Eventually, 3 applications arrive and Bill B. passes them on to HR for a recommendation that should be primarily optimized towards talent and secondarily towards cost._
 
-HR reviews the candidates and notices that all three are by coincidentally triplets separated by birth.
+HR reviews the candidates and notices that all three are, by coincidence, triplets separated by birth.
 
 __Candidate 1.: Affluent Alice__  
     a) Degree of most reputable Hogwards University  
